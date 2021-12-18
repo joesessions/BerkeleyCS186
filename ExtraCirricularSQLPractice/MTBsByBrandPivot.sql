@@ -33,3 +33,4 @@ PIVOT
 (count(product_name)
 for [brand_name] in ([Trek], [Ritchey], [Surly], [Sun Bicycles], [Haro], [Heller])) pvt
 
+
